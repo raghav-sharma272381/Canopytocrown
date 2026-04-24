@@ -121,5 +121,7 @@ For questions or collaborations, please open an issue or contact:
 
 ---
 
-**Status**: 📝 Under review at ISPRS Journal of Photogrammetry and Remote Sensing  
+**Status**: 📝 [Accepted at ISPRS Journal of Photogrammetry and Remote Sensing] (https://www.researchgate.net/publication/400780858_From_Canopy_to_Crown_High-Fidelity_Tree_Facade_Synthesis_from_Nadir_LiDAR_data)
+               [Undre Review at Remote sensing applications society and environment] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6412841)
+
 **Last Updated**: January 2026
