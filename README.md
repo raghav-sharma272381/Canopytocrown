@@ -62,27 +62,6 @@ We leverage the **FOR-species20K** benchmark dataset (Puliti et al., 2025), feat
 
 The fully-conditioned model demonstrates substantial improvements across all metrics, with particularly strong perceptual quality (LPIPS) indicating successful learning of species-specific structural priors.
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/tree-facade-synthesis.git
-cd tree-facade-synthesis
-
-# Create conda environment
-conda create -n tree-facade python=3.9
-conda activate tree-facade
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-
-```python
-# Coming soon - code release pending ISPRS review
-```
-
 ## Applications
 
 - **Forest Inventory**: Enhanced biomass, timber volume, and carbon stock estimates
